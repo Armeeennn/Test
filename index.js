@@ -4,3 +4,6 @@ function hello(){
 function foo(){
 	alert('Foo');
 }
+function sayBye(){
+	alert('Bye');
+}
